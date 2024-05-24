@@ -7,7 +7,7 @@ public class ContaTerminal {
         //Pede o número da conta
         System.out.println("Digite o número da Conta:");
         int numero = scanner.nextInt();
-        scanner.nextLine(); // Consumir a quebra de linha
+        scanner.nextLine(); 
 
         //Pede a agência
         System.out.println("Digite o número da Agência:");
